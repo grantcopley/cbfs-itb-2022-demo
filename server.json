@@ -1,0 +1,14 @@
+{
+    "JVM":{
+        "javaVersion":"openjdk11"
+    },
+    "name":".",
+    "web":{
+        "http":{
+            "port":"4000"
+        },
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
